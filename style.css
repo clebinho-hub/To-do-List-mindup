@@ -8,7 +8,7 @@
 body{
     font-family: 'lato';
     background-color:skyblue;
-    color: rgb(17, 17, 88);
+    color: #000000
     display: flex;
     flex-direction: column;
     align-items: center;
